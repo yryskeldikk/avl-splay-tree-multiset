@@ -12,12 +12,12 @@ Supports folowing operations:
 
 testGenerator.cpp will generate test cases
 
-Input
+##Input
 The first line of the contains an integer n, indicating the number of operations followed.
 In the next lines, each line contains two integers and opt, representing an operation, where
 stands for the type of the operation.
 
-Output
+##Output
 For each type 3, 4, 5, 6 operation, output is a number in one line, representing the answer.
 
 
