@@ -1,6 +1,6 @@
 # Multiset 
 
-# The Multiset was built using AVL and Splay Trees
+## The Multiset was built using AVL and Splay Trees
 Supports folowing operations:
 
 1. Insert a number x to multiset S;
