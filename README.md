@@ -1,6 +1,6 @@
-# multiset_Splay_tree
+# Multiset 
 
-# multiset S was built using Splay Tree
+# The Multiset was built using AVL and Splay Trees
 Supports folowing operations:
 
 1. Insert a number x to multiset S;
@@ -11,7 +11,5 @@ Supports folowing operations:
 6. Find the successor of a number x in S if exists;
 
 testGenerator.cpp will generate test cases
-
-if you include <multiset> and try to test, it will give you TLE 
 
 
